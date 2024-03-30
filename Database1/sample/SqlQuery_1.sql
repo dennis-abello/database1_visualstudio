@@ -1,9 +1,7 @@
-
-insert into Table1
-SELECT a.*
+﻿SELECT AB.*
 from
 (
 select 'dennis' as name
 union
 select 'b'
-) A
+) AB
