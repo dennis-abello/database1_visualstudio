@@ -1,6 +1,4 @@
-
-insert into Table1
-SELECT a.*
+﻿SELECT a.*
 from
 (
 select 'dennis' as name
